@@ -2,6 +2,11 @@ frase estava escrito errada
 
 nova linha
 
+
 uma outra nova linha teste
 
 nova branch
+
+
+conflito
+
